@@ -1,0 +1,6 @@
+[submodule "orbslam3_docker"]
+	path = orbslam3_docker
+	url = https://github.com/jahaniam/orbslam3_docker.git
+[submodule "svo_ros_docker"]
+	path = svo_ros_docker
+	url = https://github.com/methylDragon/svo_ros_docker.git
